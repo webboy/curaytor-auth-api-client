@@ -1,2 +1,5 @@
-# curaytor-auth-api-client
-PHP client for Curaytor's Auth API.
+# Curaytor Auth API Client
+PHP api client library for Curaytor Auth service
+
+## Install
+`composer require curaytor/php-auth-api-client`
