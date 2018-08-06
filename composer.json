@@ -1,7 +1,6 @@
 {
     "name": "webboy/curaytor-auth-api-client",
     "description": "PHP Library for Curaytor Auth API.",
-    "version": "1.0",
     "type": "library",
     "license": "MIT",
     "authors": [
