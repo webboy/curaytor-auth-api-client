@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="947b002b-90bc-4123-aed1-a304dcca4c7b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/curaytor-auth-api-client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curaytor-auth-api-client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AuthApiClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuthApiClient.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AuthApiResponse.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuthApiResponse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Endpoints/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endpoints/Auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Endpoints/Common.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endpoints/Common.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Endpoints/Sites.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endpoints/Sites.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Endpoints/Users.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endpoints/Users.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
@@ -72,14 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Common.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Common.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Endpoints/Common.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-              <folding>
-                <element signature="e#138#177#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="128">
+              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -97,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/src/Endpoints/Users.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -117,10 +107,10 @@
         <option value="$PROJECT_DIR$/src/AuthApiResponse.php" />
         <option value="$PROJECT_DIR$/src/AuthApiClient.php" />
         <option value="$PROJECT_DIR$/src/Endpoints/Auth.php" />
-        <option value="$PROJECT_DIR$/src/Endpoints/Common.php" />
         <option value="$PROJECT_DIR$/src/Endpoints/Sites.php" />
         <option value="$PROJECT_DIR$/src/Endpoints/Users.php" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Endpoints/Common.php" />
       </list>
     </option>
   </component>
@@ -237,7 +227,7 @@
       <option name="presentableId" value="Default" />
       <updated>1533561626108</updated>
       <workItem from="1533561627339" duration="2154000" />
-      <workItem from="1535565701734" duration="106000" />
+      <workItem from="1535565701734" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1533561860880</created>
@@ -260,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533563173664</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update">
+      <created>1535565875937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535565875937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2260000" />
+    <option name="totallyTimeSpent" value="2769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="2568" height="1012" extended-state="6" />
@@ -301,7 +298,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
     <MESSAGE value="Docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Docs" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -392,16 +390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Endpoints/Common.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#138#177#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Endpoints/Sites.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -412,7 +400,7 @@
     <entry file="file://$PROJECT_DIR$/src/Endpoints/Users.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -420,6 +408,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Endpoints/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
         </state>
       </provider>
     </entry>

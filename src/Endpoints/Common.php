@@ -11,8 +11,8 @@ namespace Webboy\CuraytorAuthApiClient\Endpoints;
 
 
 
-use Webboy\AuthApiClient\AuthApiClient;
-use Webboy\AuthApiClient\AuthApiResponse;
+use Webboy\CuraytorAuthApiClient\AuthApiClient;
+use Webboy\CuraytorAuthApiClient\AuthApiResponse;
 
 class Common extends AuthApiClient
 {
