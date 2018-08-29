@@ -6,7 +6,7 @@
  * Time: 12:49 PM
  */
 
-namespace Webboy\AuthApiClient\Endpoints;
+namespace Webboy\CuraytorAuthApiClient\Endpoints;
 
 
 

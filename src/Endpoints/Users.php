@@ -6,7 +6,7 @@
  * Time: 12:54 PM
  */
 
-namespace Webboy\AuthApiClient\Endpoints;
+namespace Webboy\CuraytorAuthApiClient\Endpoints;
 
 
 class Users extends Common

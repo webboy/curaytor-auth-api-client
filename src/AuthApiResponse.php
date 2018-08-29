@@ -6,7 +6,7 @@
  * Time: 12:37 PM
  */
 
-namespace Webboy\AuthApiClient;
+namespace Webboy\CuraytorAuthApiClient;
 
 
 use GuzzleHttp\Psr7\Response;

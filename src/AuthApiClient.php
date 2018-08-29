@@ -6,7 +6,7 @@
  * Time: 11:46 AM
  */
 
-namespace Webboy\AuthApiClient;
+namespace Webboy\CuraytorAuthApiClient;
 
 
 use GuzzleHttp\Client;
